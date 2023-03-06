@@ -11,6 +11,5 @@ The Maximal Rectangles Algorithms are used to solve the problem of packing recta
 All the code is released to Public Domain. Patches and comments are welcome.
 It makes me happy to hear if someone finds the algorithms and the implementations useful.
 
-
 Ehsan Marufi<br />
 <sup>April 2017</sup>
